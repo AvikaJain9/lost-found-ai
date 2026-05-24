@@ -1,0 +1,4 @@
+Students post lost items
+Students post found items
+Match lost ↔ found using AI (text similarity)
+Simple dashboard
